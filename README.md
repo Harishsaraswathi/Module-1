@@ -1,9 +1,8 @@
 ## PROGRAM
 ```python
-# Reg.No- 212222060100
-# Name- Jothivanan T
+# Reg.No- 212222060076
+# Name- Harish B R
 # Write your code here
-# Name- Jothivanan T 
 
 string_single_quotes = '''I am a string literal
 ... has more than one
